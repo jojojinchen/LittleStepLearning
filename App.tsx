@@ -274,7 +274,7 @@ const App: React.FC = () => {
                         </div>
                         <div className="flex gap-3 items-start">
                           <div className="w-5 h-5 rounded-full bg-slate-200 flex items-center justify-center text-[10px] font-bold mt-0.5">B</div>
-                          <p className="text-xs text-slate-600">In Safari, tap <span className="font-bold">Share</span> > <span className="font-bold">Add to Home Screen</span>.</p>
+                          <p className="text-xs text-slate-600">In Safari, tap <span className="font-bold">Share</span> &gt; <span className="font-bold">Add to Home Screen</span>.</p>
                         </div>
                       </div>
                     </div>

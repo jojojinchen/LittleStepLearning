@@ -1,0 +1,16 @@
+
+{
+  "short_name": "NAPLAN Prep",
+  "name": "NAPLAN Prep Explorer",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5351/5351471.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563EB",
+  "background_color": "#F8FAFC"
+}

@@ -6,7 +6,7 @@ export enum Subject {
 
 export type QuestionCount = 10 | 20 | 30 | 50;
 
-export type YearLevel = 2 | 3 | 4 | 5 | 6;
+export type YearLevel = 1 | 2 | 3 | 4 | 5 | 6;
 
 export interface Question {
   id: string;
